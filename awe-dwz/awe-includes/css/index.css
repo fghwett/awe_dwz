@@ -1,0 +1,23 @@
+.header {
+    height: 59px;
+    border-bottom: 1px solid #404553;
+    background-color: #393D49;
+}
+
+.awe-nav {
+    position: absolute;
+    right:0;
+}
+
+.awe-dwz-main {
+    position: relative;
+    top:30px;
+}
+
+body {
+    background: #f2f2f2;
+}
+
+#awe-dwz-main-form-text {
+    width:500px;
+}
